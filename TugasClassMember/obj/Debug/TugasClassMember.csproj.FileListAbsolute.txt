@@ -1,0 +1,7 @@
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P4, Member Class\TugasClassMember\TugasClassMember\bin\Debug\TugasClassMember.exe.config
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P4, Member Class\TugasClassMember\TugasClassMember\bin\Debug\TugasClassMember.exe
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P4, Member Class\TugasClassMember\TugasClassMember\bin\Debug\TugasClassMember.pdb
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P4, Member Class\TugasClassMember\TugasClassMember\obj\Debug\TugasClassMember.csproj.AssemblyReference.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P4, Member Class\TugasClassMember\TugasClassMember\obj\Debug\TugasClassMember.csproj.CoreCompileInputs.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P4, Member Class\TugasClassMember\TugasClassMember\obj\Debug\TugasClassMember.exe
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P4, Member Class\TugasClassMember\TugasClassMember\obj\Debug\TugasClassMember.pdb
